@@ -1,0 +1,28 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.main-section{
+  max-height: 300px;
+  width: 90%;
+  height: 500px;
+  margin: 300px auto;
+}
+.clock-holder{
+  width: 40%;
+  background: #00FFF6;
+  margin: 3px auto;
+ border: 2px solid black;
+ margin-top: -270px;
+ height: 250px;
+
+}
+.stopwatch{
+  padding: 60px 0px;
+  text-align: center;
+ 
+}
+
+
